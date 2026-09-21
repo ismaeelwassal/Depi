@@ -1,0 +1,15 @@
+numpy
+matplotlib
+dotenv
+pydantic
+tenacity
+kagglehub
+transformers
+tqdm
+groq
+pandas
+seaborn
+torch
+accelerate
+scikit-learn
+nest_asyncio
